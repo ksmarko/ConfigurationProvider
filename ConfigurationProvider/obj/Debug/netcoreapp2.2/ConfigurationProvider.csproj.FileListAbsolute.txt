@@ -1,0 +1,9 @@
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider\bin\Debug\netcoreapp2.2\ConfigurationProvider.deps.json
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider\bin\Debug\netcoreapp2.2\ConfigurationProvider.dll
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider\bin\Debug\netcoreapp2.2\ConfigurationProvider.pdb
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider\obj\Debug\netcoreapp2.2\ConfigurationProvider.csprojAssemblyReference.cache
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider\obj\Debug\netcoreapp2.2\ConfigurationProvider.csproj.CoreCompileInputs.cache
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider\obj\Debug\netcoreapp2.2\ConfigurationProvider.AssemblyInfoInputs.cache
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider\obj\Debug\netcoreapp2.2\ConfigurationProvider.AssemblyInfo.cs
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider\obj\Debug\netcoreapp2.2\ConfigurationProvider.dll
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider\obj\Debug\netcoreapp2.2\ConfigurationProvider.pdb

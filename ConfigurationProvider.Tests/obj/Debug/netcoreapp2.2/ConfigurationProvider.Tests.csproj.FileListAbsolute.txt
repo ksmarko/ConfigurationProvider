@@ -1,0 +1,17 @@
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\bin\Debug\netcoreapp2.2\ConfigurationProvider.Tests.deps.json
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\bin\Debug\netcoreapp2.2\ConfigurationProvider.Tests.runtimeconfig.json
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\bin\Debug\netcoreapp2.2\ConfigurationProvider.Tests.runtimeconfig.dev.json
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\bin\Debug\netcoreapp2.2\ConfigurationProvider.Tests.dll
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\bin\Debug\netcoreapp2.2\ConfigurationProvider.Tests.pdb
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\bin\Debug\netcoreapp2.2\ConfigurationProvider.dll
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\bin\Debug\netcoreapp2.2\ConfigurationProvider.pdb
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\obj\Debug\netcoreapp2.2\ConfigurationProvider.Tests.csprojAssemblyReference.cache
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\obj\Debug\netcoreapp2.2\ConfigurationProvider.Tests.csproj.CoreCompileInputs.cache
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\obj\Debug\netcoreapp2.2\ConfigurationProvider.Tests.AssemblyInfoInputs.cache
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\obj\Debug\netcoreapp2.2\ConfigurationProvider.Tests.AssemblyInfo.cs
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\obj\Debug\netcoreapp2.2\ConfigurationProvider.Tests.csproj.CopyComplete
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\obj\Debug\netcoreapp2.2\ConfigurationProvider.Tests.dll
+D:\mentoring-program\4. Patterns\4.8 SOLID\ConfigurationProvider.Tests\obj\Debug\netcoreapp2.2\ConfigurationProvider.Tests.pdb
